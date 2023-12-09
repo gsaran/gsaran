@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer with focus on frontend and currently working on React. 
+I'm a frontend software developer and currently working on React. 
 
 My Pronouns are She/Her.
 
